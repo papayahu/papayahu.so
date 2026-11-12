@@ -1,11 +1,11 @@
 {
-  "name": "cali.so",
+  "name": "papayahu-so.vercel.app",
   "version": "3.0.0",
   "private": true,
   "license": "SEE LICENSE IN LICENSE",
   "packageManager": "pnpm@10.34.5",
   "engines": {
-    "node": " >=22.0.0 <23.00"
+    "node": "22.x"
   },
   "pnpm": {
     "overrides": {
